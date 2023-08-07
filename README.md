@@ -219,6 +219,8 @@ It and docs can be found at <https://gin-gonic.com/> with some nice [examples](h
 * info (system info)
 * ps (container ls)
 * inspect (container inspect)
+* start (container start)
+* stop (container stop)
 * images (image ls)
 * inspect (image inspect)
 * history (image history)
@@ -230,6 +232,7 @@ It and docs can be found at <https://gin-gonic.com/> with some nice [examples](h
 * tag (image tag)
 * volume ls
 * volume inspect
+* run
 * build
 
 Note: using "build" requires the `buildctl` client.
